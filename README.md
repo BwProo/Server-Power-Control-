@@ -1,6 +1,6 @@
 # 🖥️ Server Power Control
 
-A [Pelican Panel](https://pelican.dev) plugin by **BwProo** that lets admins start, restart, stop, or kill multiple game servers at once — directly from the admin panel.
+A [Pelican Panel](https://pelican.dev) plugin by **CLaude Ai** that lets admins start, restart, stop, or kill multiple game servers at once — directly from the admin panel.
 
 ---
 
