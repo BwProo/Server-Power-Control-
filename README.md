@@ -50,3 +50,6 @@ MIT License — free to use and modify.
 Pull requests are welcome! Please open an issue first to discuss what you'd like to change.
 
 → [github.com/BwProo/Server-Power-Control-](https://github.com/BwProo/Server-Power-Control-)
+
+
+--> Completely made with claude.ai
